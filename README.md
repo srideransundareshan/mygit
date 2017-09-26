@@ -1,0 +1,2 @@
+# mygit
+my developing repository
